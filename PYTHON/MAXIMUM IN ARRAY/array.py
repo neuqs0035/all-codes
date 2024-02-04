@@ -14,3 +14,8 @@ def method1(arr):
         
     return max
 
+# Method 2 : By Using Built In Function 'max()'
+def method2(arr):
+
+    return max(arr)
+
