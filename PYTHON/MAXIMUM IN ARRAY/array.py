@@ -1,11 +1,12 @@
 arr = [1,45,78,345,678,3465,87,45]
 
-max = arr[0]
+def method1(arr):
+    max = arr[0]
 
-for i in arr:
+    for i in arr:
 
-    if i > max:
-        max = i
-    
+        if i > max:
+            max = i
+        
+    return max
 
-print(max)
