@@ -24,3 +24,8 @@ def method3(arr):
 
     arr.sort()
     return arr[len(arr)-1]
+
+
+print(method1(arr))
+print(method2(arr))
+print(method3(arr))
