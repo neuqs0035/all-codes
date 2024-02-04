@@ -19,3 +19,8 @@ def method2(arr):
 
     return max(arr)
 
+# Method 3 : By Sorting Array
+def method3(arr):
+
+    arr.sort()
+    return arr[len(arr)-1]
