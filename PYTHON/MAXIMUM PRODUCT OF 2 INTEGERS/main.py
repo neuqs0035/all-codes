@@ -10,6 +10,6 @@ for i in arr:
         max1 = i
     elif i > max2:
         max2 = i
-        
-print(max1,max2)
+
+print(max1*max2)
 
