@@ -9,18 +9,23 @@ This repository serves as a resource for beginners and learners who are explorin
 ## 🌐 Languages Included
 
 - 🐍 Python
+- ☕ Java
 <!-- Add other programming languages here -->
 
 ## 🐍 Python Directory
 
 The `PYTHON/` directory contains Python code examples and simple programs. It covers fundamental concepts, data structures, algorithms, projects, and more.
 
+## ☕ Java Dirctory
+
+The `JAVA/` directory contains Python code examples and simple programs. It covers fundamental concepts, data structures, algorithms, projects, and more.
+
 ## 📂 Structure
 
 The repository is structured as follows:
 
 - `PYTHON/`: Contains Python code examples and simple programs.
-
+- `JAVA/`: Contains Python code examples and simple programs.
 Each language directory may contain subdirectories for different topics or types of programs, along with individual code files.
 
 ## 🛠️ Contributing
